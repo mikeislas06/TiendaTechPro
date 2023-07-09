@@ -23,7 +23,7 @@ The TechPRO Landing Page is built using React and CSS to provide visitors with a
 
 To explore the TechPRO Landing Page, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/techpro-landing.git`
+1. Clone the repository: `git clone https://github.com/mikeislas06/TiendaTechPro.git`
 2. Navigate to the project directory: `cd techpro-landing`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
